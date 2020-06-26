@@ -24,6 +24,8 @@
 		4B4CB56D24852CBC005C5428 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B4CB57024852CBC005C5428 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B4CB57224852CBC005C5428 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B8045C824A5D69A00A5029C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4B8045C924A5D72D00A5029C /* Icon.afdesign */ = {isa = PBXFileReference; lastKnownFileType = file; name = Icon.afdesign; path = "../../../Downloads/ios-app-icon-template/Icon.afdesign"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		4B4CB55824852CBA005C5428 = {
 			isa = PBXGroup;
 			children = (
+				4B8045C824A5D69A00A5029C /* README.md */,
+				4B8045C924A5D72D00A5029C /* Icon.afdesign */,
 				4B4CB56324852CBA005C5428 /* KeyPress */,
 				4B4CB56224852CBA005C5428 /* Products */,
 			);
